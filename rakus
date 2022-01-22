@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale1.0">
+<title>Index<title>
+</head>
+
+<body>
+<p>Index</p>
+</body>
+
+</html>
+git add index.html
+git commit -m "[Add] index"
+git remote add origin https://github.com/G-ta0516/genta.git
+git push origin master
